@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/myporfolio/static/css/main.2f694bc9.css",
-    "main.js": "/myporfolio/static/js/main.60e63bb0.js",
+    "main.js": "/myporfolio/static/js/main.e8a2e019.js",
     "static/media/contactimg2.jpg": "/myporfolio/static/media/contactimg2.c1aaaaa77b3439643c2e.jpg",
     "static/media/1W7A8860.png": "/myporfolio/static/media/1W7A8860.761b5e8f7a0cc5d26f66.png",
     "static/media/projectOne.jpg": "/myporfolio/static/media/projectOne.6041a75b1e9e0311de7a.jpg",
@@ -10,11 +10,9 @@
     "static/media/projectTwo.jpg": "/myporfolio/static/media/projectTwo.cb70826be8e370e69726.jpg",
     "static/media/projectFour.jpg": "/myporfolio/static/media/projectFour.f9d61499e1918c7fb94b.jpg",
     "static/media/projectSix.jpg": "/myporfolio/static/media/projectSix.9319ae69e87a72eec1a5.jpg",
-    "static/media/testimonialOne.png": "/myporfolio/static/media/testimonialOne.c4706b2d1cadcb9f4daf.png",
     "static/media/Vite.js.png": "/myporfolio/static/media/Vite.js.6c883b683c133d70d474.png",
     "static/media/HTML5.png": "/myporfolio/static/media/HTML5.2cd5d05c9660ec55992e.png",
     "static/media/Linux.png": "/myporfolio/static/media/Linux.30b87c36aaec73885fd2.png",
-    "static/media/testimonialTwo.png": "/myporfolio/static/media/testimonialTwo.c6df2773c486964035d9.png",
     "static/media/Python.png": "/myporfolio/static/media/Python.65c0e9243c20520b4fdf.png",
     "static/media/Visual Studio Code (VS Code).png": "/myporfolio/static/media/Visual Studio Code (VS Code).c451d51c85d02c2a3841.png",
     "static/media/MongoDB.png": "/myporfolio/static/media/MongoDB.b723bb18907da666f951.png",
@@ -24,10 +22,10 @@
     "static/media/Jira.png": "/myporfolio/static/media/Jira.e994a6f5b2233034abcc.png",
     "index.html": "/myporfolio/index.html",
     "main.2f694bc9.css.map": "/myporfolio/static/css/main.2f694bc9.css.map",
-    "main.60e63bb0.js.map": "/myporfolio/static/js/main.60e63bb0.js.map"
+    "main.e8a2e019.js.map": "/myporfolio/static/js/main.e8a2e019.js.map"
   },
   "entrypoints": [
     "static/css/main.2f694bc9.css",
-    "static/js/main.60e63bb0.js"
+    "static/js/main.e8a2e019.js"
   ]
 }
