@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 import Title from '../layouts/Title'
 import { projectOne, projectTwo, projectThree,projectFour,projectFive, projectSix } from "../../assets/index";
 import ProjectsCard from './ProjectsCard';
@@ -21,6 +21,7 @@ const Projects = () => {
           des=" A movie app connecting to the TMDB database which shows popular, upcoming and toprated movies and a search box for searching dynamically for movies."
           src={projectOne}
           githubLink="https://github.com/Treycie/Aptlify"
+          globeLink="https://aptlify.vercel.app/"
 
         />
         <ProjectsCard
@@ -28,6 +29,7 @@ const Projects = () => {
           des=" A portfolio Website with an admin dashboard where you can add, update and delete skills, projects, acheivements,blogs and experiences. "
           src={projectTwo}
           githubLink="https://github.com/Treycie/Apt-Portfolio"
+          globeLink="https://apt-portfolio.vercel.app/"
         />
         <ProjectsCard
           title="E-COMMERCE WEBSITE"
@@ -42,6 +44,7 @@ const Projects = () => {
           des=" A recipe app where you can display a list of recipes and also add new recipes"
           src={projectFour}
           githubLink="https://github.com/ednaakpene/recipe-app"
+          globeLink="https://recipe-app-nu-two.vercel.app/"
 
         />
         <ProjectsCard
@@ -57,6 +60,7 @@ const Projects = () => {
           or correct but in the wrong position (colored in yellow) or incorrect (colored in gray)"
           src={projectSix}
           githubLink="https://github.com/ednaakpene/Word-master-game"
+          globeLink="https://word-master-game.vercel.app/"
 
         />
       </div>
