@@ -1,5 +1,5 @@
 import React from "react";
-import { FaGithub, FaLinkedinIn } from "react-icons/fa";
+import { FaGithub, FaLinkedinIn, FaWhatsapp } from "react-icons/fa";
 const Media = () => {
   return (
     <div className="flex flex-col xl:flex-row gap-6 lgl:gap-0 justify-between">
@@ -15,6 +15,11 @@ const Media = () => {
           <span className="bannerIcon">
             <a href="https://www.linkedin.com/in/ednaametefe/">
               <FaLinkedinIn />
+            </a>
+          </span>
+          <span className="bannerIcon">
+            <a href="https://wa.me/+233557366698">
+              <FaWhatsapp />
             </a>
           </span>
         </div>

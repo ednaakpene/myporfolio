@@ -1,6 +1,6 @@
 import React from 'react'
 import Title from '../layouts/Title'
-import { projectOne, projectTwo, projectThree,projectFour,projectFive } from "../../assets/index";
+import { projectOne, projectTwo, projectThree,projectFour,projectFive, projectSix } from "../../assets/index";
 import ProjectsCard from './ProjectsCard';
 
 const Projects = () => {
@@ -25,7 +25,7 @@ const Projects = () => {
         />
         <ProjectsCard
           title="PORTFOLIO WEBSITE"
-          des=" A portfolio Website with an admin dashboard where you can add, update, delete skills, projects, acheivements and experiences. "
+          des=" A portfolio Website with an admin dashboard where you can add, update and delete skills, projects, acheivements,blogs and experiences. "
           src={projectTwo}
           githubLink="https://github.com/Treycie/Apt-Portfolio"
         />
@@ -49,6 +49,14 @@ const Projects = () => {
           des=" A todo app where you can add, delete and display a list of todos"
           src={projectFive}
           githubLink="https://github.com/ednaakpene/todo-app"
+
+        />
+        <ProjectsCard
+          title="A WORDLE GAME APP"
+          des=" An online word puzzle game where players have to guess a secret five-letter word within six attempts. After each guess, the game provides feedback by coloring the letters of the guessed word to indicate if they are correct and in the right position (colored in green)
+          or correct but in the wrong position (colored in yellow) or incorrect (colored in gray)"
+          src={projectSix}
+          githubLink="https://github.com/ednaakpene/Word-master-game"
 
         />
       </div>

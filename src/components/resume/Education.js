@@ -23,7 +23,7 @@ const Education = () => {
             title="SOFTWARE ENGINEERING
             "
             subTitle="ALX AFRICA (May 2023- Present)"
-            location="ACCRA"
+            location="VIRTUAL"
           />
           <ResumeCard
             title="BSC BIOCHEMISTRY"

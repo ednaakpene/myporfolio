@@ -1,5 +1,5 @@
 import React from "react";
-import { FaGithub, FaLinkedinIn } from "react-icons/fa";
+import { FaGithub, FaLinkedinIn, FaWhatsapp } from "react-icons/fa";
 import { contactImg } from "../../assets/index";
 
 const ContactLeft = () => {
@@ -20,7 +20,7 @@ const ContactLeft = () => {
         </p>
         <p className="text-base text-gray-400 flex items-center gap-2">
           Phone:{" "}
-          <span className="text-lightText">0557366698 or 0505541682</span>
+          <span className="text-lightText">+233 557366698 or +233 505541682</span>
         </p>
         <p className="text-base text-gray-400 flex items-center gap-2">
           Email: <span className="text-lightText">edvalerie18@gmail.com</span>
@@ -38,6 +38,11 @@ const ContactLeft = () => {
           <span className="bannerIcon">
             <a href="https://www.linkedin.com/in/ednaametefe/">
               <FaLinkedinIn />
+            </a>
+          </span>
+          <span className="bannerIcon">
+            <a href="https://wa.me/+233557366698">
+              <FaWhatsapp />
             </a>
           </span>
         </div>
