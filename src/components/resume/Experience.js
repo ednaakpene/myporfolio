@@ -17,7 +17,7 @@ const Experience = () => {
       <ResumeCard
           title="Front End Developer Intern"
           subTitle="Coxtreme (April 2024)"
-          location="VIRTUAL"
+          location="CAMEROON"
           des="1. Designed an admin dashboard template for a ride hailing app using FIGMA."
           des1="2. Worked closely with software enginners to build an admin dashboard portal for a ride hailing up to show the metrics,and visualize the data from the app."
         />
