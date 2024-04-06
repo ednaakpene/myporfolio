@@ -26,7 +26,7 @@ const Projects = () => {
         />
         <ProjectsCard
           title="PORTFOLIO WEBSITE"
-          des=" A portfolio Website with an admin dashboard where you can add, update and delete skills, projects, acheivements,blogs and experiences. "
+          des=" A portfolio Website with an admin dashboard where you can add, update and delete skills, projects, achievements,blogs and experiences. "
           src={projectTwo}
           githubLink="https://github.com/Treycie/Apt-Portfolio"
           globeLink="https://apt-portfolio.vercel.app/"
