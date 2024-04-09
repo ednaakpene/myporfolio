@@ -41,9 +41,9 @@ const ContactLeft = () => {
             </a>
           </span>
           <span className="bannerIcon">
-            <a href="https://wa.me/+233557366698">
+            {/* <a href="https://wa.me/+233557366698"> */}
               <FaWhatsapp />
-            </a>
+            {/* </a> */}
           </span>
         </div>
       </div>
