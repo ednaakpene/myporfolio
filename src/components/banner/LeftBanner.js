@@ -26,7 +26,7 @@ const LeftBanner = () => {
           />
         </h2>
         <p className="text-base font-bodyFont leading-6 tracking-wide">
-        I'm all about crafting experiences,one line of code at a time.  You've got dreams, I've got skills - let's make some magic! Whether you've got a sketch on a napkin or a full-blown vision board, I'm here to sprinkle some coding fairy dust and turn those ideas into pixel-perfect reality.       </p>
+        I'm all about crafting experiences,one line of code at a time.  You've got dreams, I've got skills - let's make some magic!       </p>
       </div>
      {/* Media */}
      <Media />
