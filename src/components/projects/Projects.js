@@ -1,6 +1,6 @@
 import React from 'react';
 import Title from '../layouts/Title'
-import { projectOne, projectTwo, projectThree,projectFour,projectFive, projectSix } from "../../assets/index";
+import { projectOne, projectTwo, projectThree,brand100,projectFive, projectSix ,projectSeven} from "../../assets/index";
 import ProjectsCard from './ProjectsCard';
 
 const Projects = () => {
@@ -40,11 +40,11 @@ const Projects = () => {
 
         />
          <ProjectsCard
-          title="RECIPE APP"
-          des=" A recipe app where you can display a list of recipes and also add new recipes"
-          src={projectFour}
+          title="BRAND 100 WARRIORS"
+          des=" A website for celebrating brand excellence"
+          src={brand100}
           githubLink="https://github.com/ednaakpene/recipe-app"
-          globeLink="https://recipe-app-nu-two.vercel.app/"
+          globeLink="https://bands-and-brands.vercel.app/"
 
         />
         <ProjectsCard
@@ -61,6 +61,14 @@ const Projects = () => {
           src={projectSix}
           githubLink="https://github.com/ednaakpene/Word-master-game"
           globeLink="https://word-master-game.vercel.app/"
+
+        />
+         <ProjectsCard
+          title="BARKING CAT WEBSITE"
+          des="Official website for Barking Cat Network built with React Js, Tailwind Css and MongoDb"
+          src={projectSeven}
+          githubLink="https://github.com/ednaakpene/Word-master-game"
+          globeLink="https://barking-cats.vercel.app/"
 
         />
       </div>

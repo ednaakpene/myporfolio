@@ -17,11 +17,11 @@ const Media = () => {
               <FaLinkedinIn />
             </a>
           </span>
-          <span className="bannerIcon">
-            {/* <a href="https://wa.me/+233557366698"> */}
+          {/* <span className="bannerIcon">
+            <a href="https://wa.me/+233557366698"> 
               <FaWhatsapp />
-            {/* </a> */}
-          </span>
+             </a>
+          </span> */}
         </div>
       </div>
     

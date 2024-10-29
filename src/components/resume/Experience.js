@@ -14,7 +14,16 @@ const Experience = () => {
         <h2 className="text-4xl font-bold">Experience</h2>
       </div>
       <div className="mt-14 w-full h-[1000px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
-      <ResumeCard
+        <ResumeCard
+          title="Software Developer Intern"
+          subTitle="Bouquet Africa (June 2024)"
+          location="Accra"
+          des="1. Developed and maintained user interfaces using JavaScript and React.js, ensuring responsive, accessible designs with 
+Tailwind CSS for optimized mobile and desktop compatibility."
+          des1="2. Collaborated with cross-functional teams, including designers and account managers, to implement UI/UX 
+improvements, resulting in a 25% increase in client satisfaction."
+        />
+        <ResumeCard
           title="Front End Developer Intern"
           subTitle="Coxtreme (April 2024)"
           location="CAMEROON"
